@@ -91,7 +91,7 @@ The project successfully developed a predictive model for employee performance, 
 ## **References**
 - Scikit-learn: Pedregosa et al., "Scikit-learn: Machine Learning in Python," Journal of Machine Learning Research, 2011.  
 - TensorFlow: Abadi et al., "TensorFlow: A System for Large-Scale Machine Learning," OSDI, 2016.    
-- Visualizations and EDA inspired by (#https://www.codecademy.com/article/eda-data-visualization).  
+- Visualizations and EDA inspired by (https://www.codecademy.com/article/eda-data-visualization).  
 
 ---
 
