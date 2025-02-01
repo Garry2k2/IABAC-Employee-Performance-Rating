@@ -2,7 +2,7 @@
 
 ---
 
-# **Employee Performance Prediction**
+# **Employee Performance Rating**
 
 This project aims to develop a robust predictive model to evaluate employee performance based on various factors. By analyzing and interpreting employee data, the project identifies key drivers of performance and offers actionable insights to enhance productivity and decision-making.
 
@@ -108,4 +108,3 @@ The project successfully developed a predictive model for employee performance, 
 
 ---
 
-Customize this template based on your specific project structure and details.
